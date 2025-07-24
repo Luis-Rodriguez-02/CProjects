@@ -19,9 +19,9 @@ To master the fundamentals of C programming by building real examples and custom
 
 | Chapter | Status  | Notes                     |
 |---------|---------|---------------------------|
-| 01      | ✅ Done | Hello World, printf       |
-| 02      | 🟨 WIP  | Types, variables, input   |
-| 03      | ⬜ Todo | Operators, expressions    |
+| 01      |  | Hello World, printf       |
+| 02      |  | Types, variables, input   |
+| 03      |  | Operators, expressions    |
 | ...     |         |                           |
 
 ## 🔧 How to Compile
