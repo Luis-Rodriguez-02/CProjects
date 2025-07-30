@@ -17,12 +17,12 @@ To master the fundamentals of C programming by building real examples and custom
 
 ## ✅ Progress
 
-| Chapter | Status  | Notes                     |
-|---------|---------|---------------------------|
-| 01      |  | Hello World, printf       |
-| 02      |  | Types, variables, input   |
-| 03      |  | Operators, expressions    |
-| ...     |         |                           |
+| Chapter | Status  | 
+|---------|---------|
+| 01      | ✅ |
+| 02      | ✅ |
+| 03      |  | 
+| ...     |  |      
 
 ## 🔧 How to Compile
 
