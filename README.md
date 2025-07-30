@@ -17,10 +17,10 @@ To master the fundamentals of C programming by building real examples and custom
 
 ## ✅ Progress
 
-| Chapter | Status  | 
-|---------|---------|
-| 01      | ✅ |
-| 02      | ✅ |
+| Chapter | Status| 
+|---------|-------|
+| 01      |  ✅ |
+| 02      |  ✅ |
 | 03      |  | 
 | ...     |  |      
 
